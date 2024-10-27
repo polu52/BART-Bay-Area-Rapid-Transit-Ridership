@@ -29,12 +29,12 @@ This project uses the [BART Ridership dataset](https://www.kaggle.com/datasets/s
 
 - What additional data would you need?
 
-Additional data could enhance the analysis and accuracy of predictions:
+   Additional data could enhance the analysis and accuracy of predictions:
 
-   Weather data: Weather impacts commuter behavior, so daily weather data for the Bay Area could help refine the model.
-   Event data: Information on events (e.g., sports games, concerts) in the Bay Area could provide context for unusual ridership spikes.
-   Socioeconomic factors: Data on neighborhood demographics near stations (e.g., population density, income levels) could offer insights into commuter patterns.
-   Transit data from other modes of transportation: Integration with bus, ferry, or other local transit data would help to understand multi-modal commuting patterns.
+   - Weather data: Weather impacts commuter behavior, so daily weather data for the Bay Area could help refine the model.
+   - Event data: Information on events (e.g., sports games, concerts) in the Bay Area could provide context for unusual ridership spikes.
+   - Socioeconomic factors: Data on neighborhood demographics near stations (e.g., population density, income levels) could offer insights into commuter patterns.
+   - Transit data from other modes of transportation: Integration with bus, ferry, or other local transit data would help to understand multi-modal commuting patterns.
 
 - How would you want the city or BART officials to use your data?
 
